@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "devserv",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Sutthriath Sean Vilaysane's personal ecommerce site for web services",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Sutthirath Sean Vilaysane",
   "dependencies": {
     "gatsby": "^2.4.2",
     "gatsby-image": "^2.0.41",
